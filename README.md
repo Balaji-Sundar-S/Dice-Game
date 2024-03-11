@@ -1,6 +1,6 @@
 # dicee_game
 
-A new Flutter project.
+A simple interactable dice game which includes functionality of stateful widget.
 
 ## Getting Started
 
